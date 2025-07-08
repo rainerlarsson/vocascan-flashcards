@@ -5,3 +5,4 @@
 - Initial release
 - chore: clarify the setup steps
 - docs: clarify the setup steps
+- docs: link the usage section
