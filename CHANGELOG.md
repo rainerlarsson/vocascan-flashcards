@@ -9,3 +9,4 @@
 - fix: fix a small wording issue
 - fix: clarify the setup steps
 - docs: link the usage section
+- docs: link the usage section
